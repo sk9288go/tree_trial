@@ -1,0 +1,14 @@
+{
+  "name": "add-cards-tree-latest",
+  "version": "1.0.0",
+  "description": "Add card feature vai the react-d3-tree lib",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/ykn9o96nm9",
+  "main": "index.js",
+  "dependencies": {
+    "material-ui": "0.20.0",
+    "react": "16.0.0",
+    "react-d3-tree": "1.10.1",
+    "react-dom": "16.0.0"
+  }
+}
